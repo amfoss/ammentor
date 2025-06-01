@@ -1,22 +1,12 @@
-# amMentor — Project Hub
+<p align="center">
+  <img src="image.png" width="400" alt="amMentor Logo" />
+</p>
+
 Welcome to the **amMentor** ecosystem!  
+
 amMentor is an open-source, multi-platform mentorship management system built to streamline the entire learning journey between admins, mentors, and mentees. Designed originally by members of the amFOSS community, it enables structured learning, gamified tracking, and collaborative growth for college clubs, bootcamps, online cohorts, and mentorship programs.
 
-### Problem It Solves
-
-In most mentorship programs:
-- Mentors and mentees struggle to track curriculum progress manually.
-- There’s no centralized system to validate task submissions.
-- Communications are scattered across platforms (email, Discord, spreadsheets, etc.).
-- Admins find it hard to monitor engagement or performance.
-
-amMentor solves this by providing a modular, role-based platform where:
-- Admins define learning tracks and assign mentors.
-- Mentors review, approve, and guide mentee submissions.
-- Mentees complete tasks in sequence, earning points and badges.
-- Everything is trackable, transparent, and gamified.
-
-This repository serves as the **meta hub**, linking all four independently maintained components:
+This page serves as the **meta hub**, linking all four independently maintained components:
 
 ---
 
