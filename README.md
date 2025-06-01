@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" width="400" alt="amMentor Logo" />
+  <img src="amMentor-dark.png" width="400" alt="amMentor Logo" />
 </p>
 
 Welcome to the **amMentor** ecosystem!  
