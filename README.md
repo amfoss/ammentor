@@ -16,9 +16,9 @@ This page serves as the **meta hub**, linking all four independently maintained 
 
 | Component       | Built on                                            | Maintainer                                                                 |
 |----------------|--------------------------------------------------------|----------------------------------------------------------------------------|
-| [**Mobile App**](https://github.com/amfoss/ammentor)   | Flutter | [Gani Dande](https://github.com/ganidande905)               |
-| [**Web App**](https://github.com/amfoss/amMentor-Web)   | Next.js | [Atharva Nair](https://github.com/atharvanair04)                     |
-|[ **Backend API** ](https://github.com/amfoss/amMentor-Backend)  | FastAPI + PostgreSQL| [Gani Dande](https://github.com/ganidande905)             |
+| [**Mobile App**](https://github.com/amfoss/ammentor-mobile)   | Flutter | [Gani Dande](https://github.com/ganidande905)               |
+| [**Web App**](https://github.com/amfoss/ammentor-Web)   | Next.js | [Atharva Nair](https://github.com/atharvanair04)                     |
+|[ **Backend API** ](https://github.com/amfoss/ammentor-backend)  | FastAPI + PostgreSQL| [Gani Dande](https://github.com/ganidande905)             |
 | [**Discord Bot**](https://github.com/amfoss/amMentor)   |  Python  | [Gani Dande](https://github.com/ganidande905)             |
 
 ---
