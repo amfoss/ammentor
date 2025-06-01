@@ -4,7 +4,9 @@
 
 Welcome to the **amMentor** ecosystem!  
 
-amMentor is an open-source, multi-platform mentorship management system built to streamline the entire learning journey between admins, mentors, and mentees. Designed originally by members of the amFOSS community, it enables structured learning, gamified tracking, and collaborative growth for college clubs, bootcamps, online cohorts, and mentorship programs.
+mMentor is a mentorship management platform that transforms traditional mentoring into an engaging, gamified experience. Designed for structured learning environments such as college clubs, bootcamps, and online programs, it allows mentees to progress through curated learning tracks while being guided by experienced mentors.
+
+The system emphasizes accountability, growth, and community engagement through features like task submissions, mentor approvals, interactive leaderboards, and achievement tracking. With support for role-based access, automated workflows, and multi-platform interaction, amMentor simplifies mentorship coordination and enhances the overall learning journey.
 
 This page serves as the **meta hub**, linking all four independently maintained components:
 
